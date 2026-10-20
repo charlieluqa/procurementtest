@@ -1,0 +1,11 @@
+DEMONSTRATION CONTRACT ABSTRACT — FICTIONAL — NOT AN ACTUAL NHS AGREEMENT
+Agreement reference: SHT-008
+Customer: Southford Hospital NHS Trust
+Supplier as recorded: CareLingo UK
+Service definition: Translation (TRNS-01)
+Term: 2026-01-30 to 2029-01-29
+Pricing: 1396 annual units at GBP 27.6778 per unit (nominal). Volume may change.
+Renewal/notice: The customer must give 30 days' notice before expiration to avoid renewal.
+Break terms: Termination outside the stated period is subject to contract review. No unilateral penalty-free break is guaranteed.
+Savings caveat: Pricing is not proof of service equivalence. Any consolidation requires clinical, operational, legal and information-governance approval.
+Synthetic source provenance: generated for a technical exercise on 20 October 2026.

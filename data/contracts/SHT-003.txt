@@ -1,0 +1,11 @@
+DEMONSTRATION CONTRACT ABSTRACT — FICTIONAL — NOT AN ACTUAL NHS AGREEMENT
+Agreement reference: SHT-003
+Customer: Southford Hospital NHS Trust
+Supplier as recorded: PulseBridge Health
+Service definition: Remote monitoring (RPM-01)
+Term: 2025-06-09 to 2027-06-09
+Pricing: 13874 annual units at GBP 20.5 per unit (nominal). Volume may change.
+Renewal/notice: Agreement does not automatically renew.
+Break terms: Termination outside the stated period is subject to contract review. No unilateral penalty-free break is guaranteed.
+Savings caveat: Pricing is not proof of service equivalence. Any consolidation requires clinical, operational, legal and information-governance approval.
+Synthetic source provenance: generated for a technical exercise on 20 October 2026.
