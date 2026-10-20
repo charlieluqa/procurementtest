@@ -1,0 +1,51 @@
+=== OLD FORMULA (max annual spend - median annual spend) ===
+  RUT-011 PORTAL-01: annual=262080.00, median=128861.88, saving=133218.12, unit=4032.0000, median_unit=2573.2913, volume_driven=False
+  SHT-003 RPM-01: annual=284417.00, median=165999.32, saving=118417.68, unit=20.5000, median_unit=16.3659, volume_driven=False
+  NHT-006 ROST-01: annual=192426.74, median=145150.49, saving=47276.25, unit=86.0200, median_unit=58.8607, volume_driven=False
+  RUT-008 TRNS-01: annual=56937.16, median=38638.21, saving=18298.95, unit=29.7322, median_unit=30.1120, volume_driven=True
+  RUT-001 PAS-SMS: annual=74645.84, median=58805.39, saving=15840.44, unit=0.0550, median_unit=0.0550, volume_driven=True
+  NHT-007 CYBER-01: annual=132191.52, median=116873.64, saving=15317.88, unit=1452.6541, median_unit=1457.8177, volume_driven=True
+  RUT-005 CLOUD-01: annual=152484.68, median=140419.77, saving=12064.90, unit=1930.1858, median_unit=1930.1858, volume_driven=True
+  RUT-010 ANLY-01: annual=131014.72, median=126547.02, saving=4467.70, unit=10078.0557, median_unit=10545.5853, volume_driven=True
+  NHT-012 FHIR-01: annual=186939.04, median=183462.19, saving=3476.85, unit=890.1859, median_unit=949.3299, volume_driven=True
+  NHT-004 DICT-01: annual=54060.45, median=50775.15, saving=3285.29, unit=197.3009, median_unit=197.3009, volume_driven=True
+  NHT-002 RMD-SMS: annual=46350.64, median=43687.50, saving=2663.14, unit=0.0418, median_unit=0.0404, volume_driven=False
+  WTH-009 DX-MSG: annual=41433.24, median=39415.82, saving=2017.42, unit=0.0785, median_unit=0.0712, volume_driven=False
+  TOTAL old saving: 376344.62
+  Count: 12
+
+=== UNIT-PRICE BENCHMARK (unit_price > median_unit_price, saving = annual - units*median_unit) ===
+  RUT-011 PORTAL-01: annual=262080.00, hypo=167263.93, saving=94816.07, unit=4032.0000, median_unit=2573.2913
+  NHT-006 ROST-01: annual=192426.74, hypo=131671.39, saving=60755.35, unit=86.0200, median_unit=58.8607
+  SHT-003 RPM-01: annual=284417.00, hypo=227060.50, saving=57356.50, unit=20.5000, median_unit=16.3659
+  NHT-005 CLOUD-01: annual=140419.77, hypo=117741.33, saving=22678.44, unit=2301.9635, median_unit=1930.1858
+  WTH-010 ANLY-01: annual=115044.63, hypo=105455.85, saving=9588.78, unit=11504.4634, median_unit=10545.5853
+  RUT-013 PORTAL-01: annual=60000.00, hypo=51465.83, saving=8534.17, unit=3000.0000, median_unit=2573.2913
+  WTH-001 PAS-SMS: annual=58805.39, hypo=53459.45, saving=5345.94, unit=0.0605, median_unit=0.0550
+  RUT-004 DICT-01: annual=39830.44, hypo=35711.46, saving=4118.98, unit=220.0577, median_unit=197.3009
+  WTH-009 DX-MSG: annual=41433.24, hypo=37580.21, saving=3853.03, unit=0.0785, median_unit=0.0712
+  WTH-012 FHIR-01: annual=172740.64, hypo=170879.38, saving=1861.25, unit=959.6702, median_unit=949.3299
+  NHT-002 RMD-SMS: annual=46350.64, hypo=44798.23, saving=1552.41, unit=0.0418, median_unit=0.0404
+  SHT-007 CYBER-01: annual=109999.73, hypo=109336.33, saving=663.40, unit=1466.6631, median_unit=1457.8177
+  NHT-008 TRNS-01: annual=37456.38, hypo=37067.87, saving=388.50, unit=30.4276, median_unit=30.1120
+  TOTAL unit-price saving: 271512.82
+  Count: 13
+
+=== CONTRACTS IN OLD BUT NOT IN UNIT-PRICE (pure volume-driven) ===
+  NHT-004 DICT-01: saving=3285.29, unit_price=197.3009 <= median_unit=197.3009
+  NHT-007 CYBER-01: saving=15317.88, unit_price=1452.6541 <= median_unit=1457.8177
+  NHT-012 FHIR-01: saving=3476.85, unit_price=890.1859 <= median_unit=949.3299
+  RUT-001 PAS-SMS: saving=15840.44, unit_price=0.0550 <= median_unit=0.0550
+  RUT-005 CLOUD-01: saving=12064.90, unit_price=1930.1858 <= median_unit=1930.1858
+  RUT-008 TRNS-01: saving=18298.95, unit_price=29.7322 <= median_unit=30.1120
+  RUT-010 ANLY-01: saving=4467.70, unit_price=10078.0557 <= median_unit=10545.5853
+
+=== CONTRACTS IN UNIT-PRICE BUT NOT IN OLD (hidden price outliers) ===
+  NHT-005 CLOUD-01: saving=22678.44, unit_price=2301.9635 > median_unit=1930.1858
+  NHT-008 TRNS-01: saving=388.50, unit_price=30.4276 > median_unit=30.1120
+  RUT-004 DICT-01: saving=4118.98, unit_price=220.0577 > median_unit=197.3009
+  RUT-013 PORTAL-01: saving=8534.17, unit_price=3000.0000 > median_unit=2573.2913
+  SHT-007 CYBER-01: saving=663.40, unit_price=1466.6631 > median_unit=1457.8177
+  WTH-001 PAS-SMS: saving=5345.94, unit_price=0.0605 > median_unit=0.0550
+  WTH-010 ANLY-01: saving=9588.78, unit_price=11504.4634 > median_unit=10545.5853
+  WTH-012 FHIR-01: saving=1861.25, unit_price=959.6702 > median_unit=949.3299
