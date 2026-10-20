@@ -1,0 +1,56 @@
+THRESHOLDS: dev_from_mean > 15% OR dev_from_expected > 20%
+
+VARIANCE FLAGS: 0
+
+NEAR-MISSES (>10% but <= thresholds): 0
+
+MAX DEVIATION PER MULTI-INVOICE CONTRACT:
+  NHT-001: max_dev_mean=9.04%, max_dev_exp=7.90%
+  NHT-002: max_dev_mean=8.48%, max_dev_exp=7.84%
+  NHT-003: max_dev_mean=6.20%, max_dev_exp=7.69%
+  NHT-004: max_dev_mean=2.78%, max_dev_exp=6.41%
+  NHT-005: max_dev_mean=5.04%, max_dev_exp=6.39%
+  NHT-006: max_dev_mean=5.17%, max_dev_exp=6.13%
+  NHT-007: max_dev_mean=7.86%, max_dev_exp=7.84%
+  NHT-008: max_dev_mean=6.42%, max_dev_exp=7.65%
+  NHT-009: max_dev_mean=7.35%, max_dev_exp=7.83%
+  NHT-010: max_dev_mean=7.55%, max_dev_exp=7.85%
+  NHT-011: max_dev_mean=8.42%, max_dev_exp=6.31%
+  NHT-012: max_dev_mean=4.04%, max_dev_exp=5.10%
+  RUT-001: max_dev_mean=5.22%, max_dev_exp=6.17%
+  RUT-002: max_dev_mean=6.64%, max_dev_exp=6.50%
+  RUT-003: max_dev_mean=3.56%, max_dev_exp=5.47%
+  RUT-004: max_dev_mean=5.06%, max_dev_exp=4.24%
+  RUT-005: max_dev_mean=7.40%, max_dev_exp=7.29%
+  RUT-006: max_dev_mean=6.06%, max_dev_exp=7.65%
+  RUT-007: max_dev_mean=7.29%, max_dev_exp=7.99%
+  RUT-008: max_dev_mean=7.96%, max_dev_exp=6.41%
+  RUT-009: max_dev_mean=7.08%, max_dev_exp=7.18%
+  RUT-010: max_dev_mean=8.76%, max_dev_exp=7.89%
+  RUT-011: max_dev_mean=6.05%, max_dev_exp=7.12%
+  RUT-012: max_dev_mean=5.48%, max_dev_exp=5.14%
+  RUT-013: max_dev_mean=3.76%, max_dev_exp=4.43%
+  SHT-001: max_dev_mean=5.81%, max_dev_exp=4.93%
+  SHT-002: max_dev_mean=6.70%, max_dev_exp=7.70%
+  SHT-003: max_dev_mean=7.25%, max_dev_exp=6.62%
+  SHT-004: max_dev_mean=5.86%, max_dev_exp=5.38%
+  SHT-005: max_dev_mean=5.35%, max_dev_exp=6.41%
+  SHT-006: max_dev_mean=7.36%, max_dev_exp=6.97%
+  SHT-007: max_dev_mean=6.79%, max_dev_exp=5.88%
+  SHT-008: max_dev_mean=9.01%, max_dev_exp=7.75%
+  SHT-009: max_dev_mean=5.52%, max_dev_exp=5.66%
+  SHT-010: max_dev_mean=3.58%, max_dev_exp=6.21%
+  SHT-011: max_dev_mean=7.07%, max_dev_exp=7.69%
+  SHT-012: max_dev_mean=5.09%, max_dev_exp=5.38%
+  WTH-001: max_dev_mean=6.05%, max_dev_exp=7.20%
+  WTH-002: max_dev_mean=7.58%, max_dev_exp=7.97%
+  WTH-003: max_dev_mean=6.34%, max_dev_exp=6.28%
+  WTH-004: max_dev_mean=6.55%, max_dev_exp=6.68%
+  WTH-005: max_dev_mean=4.84%, max_dev_exp=4.19%
+  WTH-006: max_dev_mean=7.23%, max_dev_exp=7.43%
+  WTH-007: max_dev_mean=7.17%, max_dev_exp=7.49%
+  WTH-008: max_dev_mean=6.66%, max_dev_exp=6.06%
+  WTH-009: max_dev_mean=6.93%, max_dev_exp=7.95%
+  WTH-010: max_dev_mean=4.83%, max_dev_exp=5.79%
+  WTH-011: max_dev_mean=4.89%, max_dev_exp=7.89%
+  WTH-012: max_dev_mean=6.00%, max_dev_exp=7.37%

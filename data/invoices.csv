@@ -1,0 +1,303 @@
+invoice_id,contract_id,supplier_name,invoice_date,amount_gbp,line_description,purchase_order,source_file
+INV-RUT-012-01,RUT-012,Interop Works,2026-01-25,11502.06,Monthly FHIR-01 services,PO-RUT-012,invoice-INV-RUT-012-01.pdf
+INV-SHT-003-06,SHT-003,PulseBridge Health,2026-06-25,24253.21,Monthly RPM-01 services,PO-SHT-003,invoice-INV-SHT-003-06.pdf
+INV-NHT-001-06,NHT-001,MediFlow Solutions,2026-06-25,2947.62,Monthly PAS-SMS services,PO-NHT-001,invoice-INV-NHT-001-06.pdf
+INV-RUT-007-04,RUT-007,SentinelPoint Consulting,2026-04-25,10212.97,Monthly CYBER-01 services,PO-RUT-007,invoice-INV-RUT-007-04.pdf
+INV-NHT-009-05,NHT-009,MEDIFLOW SOLUTIONS UK,2026-05-25,2509.24,Monthly DX-MSG services,PO-NHT-009,invoice-INV-NHT-009-05.pdf
+INV-NHT-010-06,NHT-010,NHS Analytics Lab,2026-06-25,8672.04,Monthly ANLY-01 services,PO-NHT-010,invoice-INV-NHT-010-06.pdf
+INV-SHT-007-06,SHT-007,SentinelPoint Consulting,2026-06-25,9705.83,Monthly CYBER-01 services,PO-SHT-007,invoice-INV-SHT-007-06.pdf
+INV-WTH-005-06,WTH-005,Nimble Cloud UK,2026-06-25,11076.99,Monthly CLOUD-01 services,PO-WTH-005,invoice-INV-WTH-005-06.pdf
+INV-WTH-011-02,WTH-011,ClinicConnect Ltd,2026-02-25,10453.25,Monthly PORTAL-01 services,PO-WTH-011,invoice-INV-WTH-011-02.pdf
+INV-RUT-008-01,RUT-008,CareLingo UK,2026-01-25,4881.63,Monthly TRNS-01 services,PO-RUT-008,invoice-INV-RUT-008-01.pdf
+INV-SHT-008-03,SHT-008,CareLingo UK,2026-03-25,3081.66,Monthly TRNS-01 services,PO-SHT-008,invoice-INV-SHT-008-03.pdf
+INV-SHT-004-02,SHT-004,Voxica Systems,2026-02-25,4458.43,Monthly DICT-01 services,PO-SHT-004,invoice-INV-SHT-004-02.pdf
+INV-RUT-013-02,RUT-013,Clinic Connect UK Ltd,2026-02-25,5078.42,Monthly PORTAL-01 services,PO-RUT-013,invoice-INV-RUT-013-02.pdf
+INV-RUT-013-04,RUT-013,Clinic Connect UK Ltd,2026-04-25,4959.55,Monthly PORTAL-01 services,PO-RUT-013,invoice-INV-RUT-013-04.pdf
+INV-WTH-010-02,WTH-010,NHS Analytics Lab,2026-02-25,9032.11,Monthly ANLY-01 services,PO-WTH-010,invoice-INV-WTH-010-02.pdf
+INV-SHT-004-03,SHT-004,Voxica Systems,2026-03-25,4097.98,Monthly DICT-01 services,PO-SHT-004,invoice-INV-SHT-004-03.pdf
+INV-RUT-010-04,RUT-010,NHS Analytics Lab,2026-04-25,10056.09,Monthly ANLY-01 services,PO-RUT-010,invoice-INV-RUT-010-04.pdf
+INV-RUT-012-02,RUT-012,Interop Works,2026-02-25,11244.5,Monthly FHIR-01 services,PO-RUT-012,invoice-INV-RUT-012-02.pdf
+INV-RUT-006-05,RUT-006,Staff Orbit Limited,2026-05-25,9700.43,Monthly ROST-01 services,PO-RUT-006,invoice-INV-RUT-006-05.pdf
+INV-RUT-008-05,RUT-008,CareLingo UK,2026-05-25,5005.52,Monthly TRNS-01 services,PO-RUT-008,invoice-INV-RUT-008-05.pdf
+INV-SHT-005-04,SHT-005,NimbleCloud UK,2026-04-25,10398.26,Monthly CLOUD-01 services,PO-SHT-005,invoice-INV-SHT-005-04.pdf
+INV-NHT-006-05,NHT-006,Staff Orbit Limited,2026-05-25,16567.11,Monthly ROST-01 services,PO-NHT-006,invoice-INV-NHT-006-05.pdf
+INV-NHT-009-01,NHT-009,MEDIFLOW SOLUTIONS UK,2026-01-25,2656.03,Monthly DX-MSG services,PO-NHT-009,invoice-INV-NHT-009-01.pdf
+INV-SHT-009-04,SHT-009,MEDIFLOW SOLUTIONS UK,2026-04-25,2697.94,Monthly DX-MSG services,PO-SHT-009,invoice-INV-SHT-009-04.pdf
+INV-NHT-005-01,NHT-005,Nimble Cloud UK,2026-01-25,12229.05,Monthly CLOUD-01 services,PO-NHT-005,invoice-INV-NHT-005-01.pdf
+INV-SHT-009-03,SHT-009,MEDIFLOW SOLUTIONS UK,2026-03-25,2551.9,Monthly DX-MSG services,PO-SHT-009,invoice-INV-SHT-009-03.pdf
+INV-SHT-008-04,SHT-008,CareLingo UK,2026-04-25,3311.22,Monthly TRNS-01 services,PO-SHT-008,invoice-INV-SHT-008-04.pdf
+INV-NHT-006-04,NHT-006,Staff Orbit Limited,2026-04-25,15888.02,Monthly ROST-01 services,PO-NHT-006,invoice-INV-NHT-006-04.pdf
+INV-RUT-006-06,RUT-006,Staff Orbit Limited,2026-06-25,10049.32,Monthly ROST-01 services,PO-RUT-006,invoice-INV-RUT-006-06.pdf
+INV-WTH-008-03,WTH-008,CareLingo UK,2026-03-25,2312.54,Monthly TRNS-01 services,PO-WTH-008,invoice-INV-WTH-008-03.pdf
+INV-NHT-005-02,NHT-005,Nimble Cloud UK,2026-02-25,12249.59,Monthly CLOUD-01 services,PO-NHT-005,invoice-INV-NHT-005-02.pdf
+INV-RUT-008-03,RUT-008,CareLingo UK,2026-03-25,4505.43,Monthly TRNS-01 services,PO-RUT-008,invoice-INV-RUT-008-03.pdf
+INV-NHT-004-04,NHT-004,Voxica Systems,2026-04-25,4425.09,Monthly DICT-01 services,PO-NHT-004,invoice-INV-NHT-004-04.pdf
+INV-SHT-007-05,SHT-007,SentinelPoint Consulting,2026-05-25,8683.39,Monthly CYBER-01 services,PO-SHT-007,invoice-INV-SHT-007-05.pdf
+INV-SHT-006-05,SHT-006,StaffOrbit Ltd,2026-05-25,12851.11,Monthly ROST-01 services,PO-SHT-006,invoice-INV-SHT-006-05.pdf
+INV-RUT-011-04,RUT-011,ClinicConnect Ltd,2026-04-25,22715.08,Monthly PORTAL-01 services,PO-RUT-011,invoice-INV-RUT-011-04.pdf
+INV-RUT-005-04,RUT-005,Nimble Cloud UK,2026-04-25,11780.2,Monthly CLOUD-01 services,PO-RUT-005,invoice-INV-RUT-005-04.pdf
+INV-WTH-012-04,WTH-012,Interop Works,2026-04-25,13658.83,Monthly FHIR-01 services,PO-WTH-012,invoice-INV-WTH-012-04.pdf
+INV-RUT-007-06,RUT-007,SentinelPoint Consulting,2026-06-25,8961.07,Monthly CYBER-01 services,PO-RUT-007,invoice-INV-RUT-007-06.pdf
+INV-SHT-005-02,SHT-005,NimbleCloud UK,2026-02-25,11051.78,Monthly CLOUD-01 services,PO-SHT-005,invoice-INV-SHT-005-02.pdf
+INV-SHT-001-04,SHT-001,Medi Flow Ltd,2026-04-25,4211.51,Monthly PAS-SMS services,PO-SHT-001,invoice-INV-SHT-001-04.pdf
+INV-NHT-007-01,NHT-007,SentinelPoint Consulting,2026-01-25,10660.16,Monthly CYBER-01 services,PO-NHT-007,invoice-INV-NHT-007-01.pdf
+INV-WTH-001-02,WTH-001,Medi Flow Ltd,2026-02-25,4715.81,Monthly PAS-SMS services,PO-WTH-001,invoice-INV-WTH-001-02.pdf
+INV-WTH-004-06,WTH-004,Voxica Systems,2026-06-25,3429.66,Monthly DICT-01 services,PO-WTH-004,resubmitted-invoice-INV-WTH-004-06.pdf
+INV-NHT-002-04,NHT-002,WardLink Technologies,2026-04-25,3856.09,Monthly RMD-SMS services,PO-NHT-002,invoice-INV-NHT-002-04.pdf
+INV-WTH-003-03,WTH-003,PulseBridge Health,2026-03-25,11670.08,Monthly RPM-01 services,PO-WTH-003,invoice-INV-WTH-003-03.pdf
+INV-SHT-002-06,SHT-002,Ward Link Tech,2026-06-25,3426.66,Monthly RMD-SMS services,PO-SHT-002,invoice-INV-SHT-002-06.pdf
+INV-NHT-005-06,NHT-005,Nimble Cloud UK,2026-06-25,11815.82,Monthly CLOUD-01 services,PO-NHT-005,invoice-INV-NHT-005-06.pdf
+INV-NHT-006-01,NHT-006,Staff Orbit Limited,2026-01-25,17018.63,Monthly ROST-01 services,PO-NHT-006,invoice-INV-NHT-006-01.pdf
+INV-NHT-001-03,NHT-001,MediFlow Solutions,2026-03-25,2844.1,Monthly PAS-SMS services,PO-NHT-001,invoice-INV-NHT-001-03.pdf
+INV-RUT-002-06,RUT-002,WardLink Technologies,2026-06-25,2107.95,Monthly RMD-SMS services,PO-RUT-002,invoice-INV-RUT-002-06.pdf
+INV-RUT-008-06,RUT-008,CareLingo UK,2026-06-25,5048.67,Monthly TRNS-01 services,PO-RUT-008,invoice-INV-RUT-008-06.pdf
+INV-WTH-006-04,WTH-006,Staff Orbit Limited,2026-04-25,8047.94,Monthly ROST-01 services,PO-WTH-006,invoice-INV-WTH-006-04.pdf
+INV-SHT-005-03,SHT-005,NimbleCloud UK,2026-03-25,10986.78,Monthly CLOUD-01 services,PO-SHT-005,invoice-INV-SHT-005-03.pdf
+INV-SHT-011-05,SHT-011,ClinicConnect Ltd,2026-05-25,8885.59,Monthly PORTAL-01 services,PO-SHT-011,invoice-INV-SHT-011-05.pdf
+INV-SHT-001-02,SHT-001,Medi Flow Ltd,2026-02-25,4238.48,Monthly PAS-SMS services,PO-SHT-001,invoice-INV-SHT-001-02.pdf
+INV-RUT-010-05,RUT-010,NHS Analytics Lab,2026-05-25,10839.74,Monthly ANLY-01 services,PO-RUT-010,invoice-INV-RUT-010-05.pdf
+INV-WTH-002-04,WTH-002,WardLink Technologies,2026-04-25,3763.94,Monthly RMD-SMS services,PO-WTH-002,invoice-INV-WTH-002-04.pdf
+INV-SHT-005-01,SHT-005,NimbleCloud UK,2026-01-25,10093.3,Monthly CLOUD-01 services,PO-SHT-005,invoice-INV-SHT-005-01.pdf
+INV-WTH-010-05,WTH-010,NHS Analytics Lab,2026-05-25,9946.07,Monthly ANLY-01 services,PO-WTH-010,invoice-INV-WTH-010-05.pdf
+INV-RUT-009-01,RUT-009,MediFlow Solutions,2026-01-25,3048.84,Monthly DX-MSG services,PO-RUT-009,invoice-INV-RUT-009-01.pdf
+INV-NHT-004-02,NHT-004,Voxica Systems,2026-02-25,4402.75,Monthly DICT-01 services,PO-NHT-004,invoice-INV-NHT-004-02.pdf
+INV-WTH-002-01,WTH-002,WardLink Technologies,2026-01-25,3686.89,Monthly RMD-SMS services,PO-WTH-002,invoice-INV-WTH-002-01.pdf
+INV-RUT-009-02,RUT-009,MediFlow Solutions,2026-02-25,3142.68,Monthly DX-MSG services,PO-RUT-009,invoice-INV-RUT-009-02.pdf
+INV-SHT-012-06,SHT-012,InteropWorks PLC,2026-06-25,16111.08,Monthly FHIR-01 services,PO-SHT-012,invoice-INV-SHT-012-06.pdf
+INV-SHT-001-06,SHT-001,Medi Flow Ltd,2026-06-25,4114.07,Monthly PAS-SMS services,PO-SHT-001,invoice-INV-SHT-001-06.pdf
+INV-WTH-004-06,WTH-004,Voxica Systems,2026-06-25,3429.66,Monthly DICT-01 services,PO-WTH-004,invoice-INV-WTH-004-06.pdf
+INV-WTH-006-01,WTH-006,Staff Orbit Limited,2026-01-25,8943.73,Monthly ROST-01 services,PO-WTH-006,invoice-INV-WTH-006-01.pdf
+INV-MISC-2,MISSING,Unmapped Vendor,2026-06-14,13800,Unmapped service,UNASSIGNED,invoice-unmapped-2.pdf
+INV-NHT-011-03,NHT-011,ClinicConnect Ltd,2026-03-25,14083.62,Monthly PORTAL-01 services,PO-NHT-011,invoice-INV-NHT-011-03.pdf
+INV-WTH-010-04,WTH-010,NHS Analytics Lab,2026-04-25,9679.89,Monthly ANLY-01 services,PO-WTH-010,invoice-INV-WTH-010-04.pdf
+INV-NHT-009-02,NHT-009,MEDIFLOW SOLUTIONS UK,2026-02-25,2638.6,Monthly DX-MSG services,PO-NHT-009,invoice-INV-NHT-009-02.pdf
+INV-RUT-001-06,RUT-001,Medi Flow Ltd,2026-06-25,6327.46,Monthly PAS-SMS services,PO-RUT-001,invoice-INV-RUT-001-06.pdf
+INV-WTH-009-02,WTH-009,MEDIFLOW SOLUTIONS UK,2026-02-25,3649.67,Monthly DX-MSG services,PO-WTH-009,invoice-INV-WTH-009-02.pdf
+INV-WTH-012-02,WTH-012,Interop Works,2026-02-25,13968.42,Monthly FHIR-01 services,PO-WTH-012,invoice-INV-WTH-012-02.pdf
+INV-SHT-011-02,SHT-011,ClinicConnect Ltd,2026-02-25,9687.68,Monthly PORTAL-01 services,PO-SHT-011,invoice-INV-SHT-011-02.pdf
+INV-NHT-006-06,NHT-006,Staff Orbit Limited,2026-06-25,16836.02,Monthly ROST-01 services,PO-NHT-006,invoice-INV-NHT-006-06.pdf
+INV-WTH-003-05,WTH-003,PulseBridge Health,2026-05-25,12556.8,Monthly RPM-01 services,PO-WTH-003,invoice-INV-WTH-003-05.pdf
+INV-RUT-011-05,RUT-011,ClinicConnect Ltd,2026-05-25,21051.85,Monthly PORTAL-01 services,PO-RUT-011,invoice-INV-RUT-011-05.pdf
+INV-WTH-004-05,WTH-004,Voxica Systems,2026-05-25,3770.94,Monthly DICT-01 services,PO-WTH-004,invoice-INV-WTH-004-05.pdf
+INV-WTH-007-02,WTH-007,SentinelPoint Consulting,2026-02-25,6247.09,Monthly CYBER-01 services,PO-WTH-007,invoice-INV-WTH-007-02.pdf
+INV-WTH-005-01,WTH-005,Nimble Cloud UK,2026-01-25,11742.26,Monthly CLOUD-01 services,PO-WTH-005,invoice-INV-WTH-005-01.pdf
+INV-NHT-007-05,NHT-007,SentinelPoint Consulting,2026-05-25,11469.25,Monthly CYBER-01 services,PO-NHT-007,invoice-INV-NHT-007-05.pdf
+INV-WTH-012-05,WTH-012,Interop Works,2026-05-25,15028.77,Monthly FHIR-01 services,PO-WTH-012,invoice-INV-WTH-012-05.pdf
+INV-NHT-001-01,NHT-001,MediFlow Solutions,2026-01-25,2870.16,Monthly PAS-SMS services,PO-NHT-001,invoice-INV-NHT-001-01.pdf
+INV-SHT-006-01,SHT-006,StaffOrbit Ltd,2026-01-25,11252.45,Monthly ROST-01 services,PO-SHT-006,invoice-INV-SHT-006-01.pdf
+INV-RUT-004-04,RUT-004,Voxica Systems,2026-04-25,3306.29,Monthly DICT-01 services,PO-RUT-004,invoice-INV-RUT-004-04.pdf
+INV-SHT-005-06,SHT-005,NimbleCloud UK,2026-06-25,10507.41,Monthly CLOUD-01 services,PO-SHT-005,resubmitted-invoice-INV-SHT-005-06.pdf
+INV-SHT-009-06,SHT-009,MEDIFLOW SOLUTIONS UK,2026-06-25,2478.48,Monthly DX-MSG services,PO-SHT-009,invoice-INV-SHT-009-06.pdf
+INV-RUT-011-01,RUT-011,ClinicConnect Ltd,2026-01-25,21695.2,Monthly PORTAL-01 services,PO-RUT-011,invoice-INV-RUT-011-01.pdf
+INV-RUT-008-04,RUT-008,CareLingo UK,2026-04-25,4446.08,Monthly TRNS-01 services,PO-RUT-008,invoice-INV-RUT-008-04.pdf
+INV-SHT-004-06,SHT-004,Voxica Systems,2026-06-25,4003.82,Monthly DICT-01 services,PO-SHT-004,invoice-INV-SHT-004-06.pdf
+INV-WTH-012-01,WTH-012,Interop Works,2026-01-25,14597.49,Monthly FHIR-01 services,PO-WTH-012,invoice-INV-WTH-012-01.pdf
+INV-NHT-010-05,NHT-010,NHS Analytics Lab,2026-05-25,7932.48,Monthly ANLY-01 services,PO-NHT-010,invoice-INV-NHT-010-05.pdf
+INV-RUT-005-06,RUT-005,Nimble Cloud UK,2026-06-25,13069.27,Monthly CLOUD-01 services,PO-RUT-005,invoice-INV-RUT-005-06.pdf
+INV-SHT-009-01,SHT-009,MEDIFLOW SOLUTIONS UK,2026-01-25,2593.18,Monthly DX-MSG services,PO-SHT-009,invoice-INV-SHT-009-01.pdf
+INV-WTH-009-04,WTH-009,MEDIFLOW SOLUTIONS UK,2026-04-25,3493.6,Monthly DX-MSG services,PO-WTH-009,invoice-INV-WTH-009-04.pdf
+INV-RUT-006-03,RUT-006,Staff Orbit Limited,2026-03-25,9760.29,Monthly ROST-01 services,PO-RUT-006,invoice-INV-RUT-006-03.pdf
+INV-WTH-012-06,WTH-012,Interop Works,2026-06-25,14525.85,Monthly FHIR-01 services,PO-WTH-012,invoice-INV-WTH-012-06.pdf
+INV-WTH-005-03,WTH-005,Nimble Cloud UK,2026-03-25,11025.81,Monthly CLOUD-01 services,PO-WTH-005,invoice-INV-WTH-005-03.pdf
+INV-RUT-001-05,RUT-001,Medi Flow Ltd,2026-05-25,6007.64,Monthly PAS-SMS services,PO-RUT-001,invoice-INV-RUT-001-05.pdf
+INV-WTH-008-05,WTH-008,CareLingo UK,2026-05-25,2356.14,Monthly TRNS-01 services,PO-WTH-008,invoice-INV-WTH-008-05.pdf
+INV-RUT-004-01,RUT-004,Voxica Systems,2026-01-25,3191.66,Monthly DICT-01 services,PO-RUT-004,invoice-INV-RUT-004-01.pdf
+INV-NHT-008-01,NHT-008,CareLingo UK,2026-01-25,2913.99,Monthly TRNS-01 services,PO-NHT-008,invoice-INV-NHT-008-01.pdf
+INV-NHT-001-05,NHT-001,MediFlow Solutions,2026-05-25,2949.94,Monthly PAS-SMS services,PO-NHT-001,invoice-INV-NHT-001-05.pdf
+INV-RUT-011-03,RUT-011,ClinicConnect Ltd,2026-03-25,21487.24,Monthly PORTAL-01 services,PO-RUT-011,invoice-INV-RUT-011-03.pdf
+INV-NHT-011-04,NHT-011,ClinicConnect Ltd,2026-04-25,14908.94,Monthly PORTAL-01 services,PO-NHT-011,invoice-INV-NHT-011-04.pdf
+INV-RUT-004-06,RUT-004,Voxica Systems,2026-06-25,3232.2,Monthly DICT-01 services,PO-RUT-004,invoice-INV-RUT-004-06.pdf
+INV-RUT-012-06,RUT-012,Interop Works,2026-06-25,10431.62,Monthly FHIR-01 services,PO-RUT-012,invoice-INV-RUT-012-06.pdf
+INV-RUT-003-04,RUT-003,PulseBridge Health,2026-04-25,8611.77,Monthly RPM-01 services,PO-RUT-003,invoice-INV-RUT-003-04.pdf
+INV-RUT-011-02,RUT-011,ClinicConnect Ltd,2026-02-25,20284.74,Monthly PORTAL-01 services,PO-RUT-011,invoice-INV-RUT-011-02.pdf
+INV-SHT-002-02,SHT-002,Ward Link Tech,2026-02-25,3392.7,Monthly RMD-SMS services,PO-SHT-002,invoice-INV-SHT-002-02.pdf
+INV-WTH-007-06,WTH-007,SentinelPoint Consulting,2026-06-25,5915.11,Monthly CYBER-01 services,PO-WTH-007,invoice-INV-WTH-007-06.pdf
+INV-NHT-002-01,NHT-002,WardLink Technologies,2026-01-25,3853.41,Monthly RMD-SMS services,PO-NHT-002,invoice-INV-NHT-002-01.pdf
+INV-RUT-010-06,RUT-010,NHS Analytics Lab,2026-06-25,10666.49,Monthly ANLY-01 services,PO-RUT-010,invoice-INV-RUT-010-06.pdf
+INV-SHT-012-05,SHT-012,InteropWorks PLC,2026-05-25,15684.62,Monthly FHIR-01 services,PO-SHT-012,invoice-INV-SHT-012-05.pdf
+INV-RUT-010-01,RUT-010,NHS Analytics Lab,2026-01-25,11656.25,Monthly ANLY-01 services,PO-RUT-010,invoice-INV-RUT-010-01.pdf
+INV-WTH-002-06,WTH-002,WardLink Technologies,2026-06-25,3846.4,Monthly RMD-SMS services,PO-WTH-002,invoice-INV-WTH-002-06.pdf
+INV-WTH-011-05,WTH-011,ClinicConnect Ltd,2026-05-25,10764.12,Monthly PORTAL-01 services,PO-WTH-011,invoice-INV-WTH-011-05.pdf
+INV-NHT-009-03,NHT-009,MEDIFLOW SOLUTIONS UK,2026-03-25,2769.6,Monthly DX-MSG services,PO-NHT-009,invoice-INV-NHT-009-03.pdf
+INV-WTH-008-06,WTH-008,CareLingo UK,2026-06-25,2580.55,Monthly TRNS-01 services,PO-WTH-008,invoice-INV-WTH-008-06.pdf
+INV-RUT-013-03,RUT-013,Clinic Connect UK Ltd,2026-03-25,5206.3,Monthly PORTAL-01 services,PO-RUT-013,invoice-INV-RUT-013-03.pdf
+INV-RUT-012-04,RUT-012,Interop Works,2026-04-25,10989.21,Monthly FHIR-01 services,PO-RUT-012,invoice-INV-RUT-012-04.pdf
+INV-NHT-011-06,NHT-011,ClinicConnect Ltd,2026-06-25,14173.81,Monthly PORTAL-01 services,PO-NHT-011,invoice-INV-NHT-011-06.pdf
+INV-WTH-007-04,WTH-007,SentinelPoint Consulting,2026-04-25,5844.34,Monthly CYBER-01 services,PO-WTH-007,invoice-INV-WTH-007-04.pdf
+INV-WTH-003-06,WTH-003,PulseBridge Health,2026-06-25,12444.87,Monthly RPM-01 services,PO-WTH-003,invoice-INV-WTH-003-06.pdf
+INV-NHT-003-05,NHT-003,PulseBridge Health,2026-05-25,12769.34,Monthly RPM-01 services,PO-NHT-003,invoice-INV-NHT-003-05.pdf
+INV-RUT-005-03,RUT-005,Nimble Cloud UK,2026-03-25,13301.32,Monthly CLOUD-01 services,PO-RUT-005,invoice-INV-RUT-005-03.pdf
+INV-NHT-002-06,NHT-002,WardLink Technologies,2026-06-25,3559.77,Monthly RMD-SMS services,PO-NHT-002,invoice-INV-NHT-002-06.pdf
+INV-SHT-010-02,SHT-010,NHS Analytics Lab,2026-02-25,10450.23,Monthly ANLY-01 services,PO-SHT-010,invoice-INV-SHT-010-02.pdf
+INV-WTH-008-04,WTH-008,CareLingo UK,2026-04-25,2558.56,Monthly TRNS-01 services,PO-WTH-008,invoice-INV-WTH-008-04.pdf
+INV-RUT-012-05,RUT-012,Interop Works,2026-05-25,10953.33,Monthly FHIR-01 services,PO-RUT-012,invoice-INV-RUT-012-05.pdf
+INV-WTH-001-06,WTH-001,Medi Flow Ltd,2026-06-25,4625.07,Monthly PAS-SMS services,PO-WTH-001,invoice-INV-WTH-001-06.pdf
+INV-SHT-001-01,SHT-001,Medi Flow Ltd,2026-01-25,3989.87,Monthly PAS-SMS services,PO-SHT-001,invoice-INV-SHT-001-01.pdf
+INV-RUT-006-02,RUT-006,Staff Orbit Limited,2026-02-25,10651.03,Monthly ROST-01 services,PO-RUT-006,invoice-INV-RUT-006-02.pdf
+INV-SHT-010-01,SHT-010,NHS Analytics Lab,2026-01-25,10844.15,Monthly ANLY-01 services,PO-SHT-010,invoice-INV-SHT-010-01.pdf
+INV-WTH-003-02,WTH-003,PulseBridge Health,2026-02-25,12005.21,Monthly RPM-01 services,PO-WTH-003,invoice-INV-WTH-003-02.pdf
+INV-RUT-007-02,RUT-007,SentinelPoint Consulting,2026-02-25,9597.99,Monthly CYBER-01 services,PO-RUT-007,invoice-INV-RUT-007-02.pdf
+INV-WTH-009-05,WTH-009,MEDIFLOW SOLUTIONS UK,2026-05-25,3513.47,Monthly DX-MSG services,PO-WTH-009,invoice-INV-WTH-009-05.pdf
+INV-SHT-008-01,SHT-008,CareLingo UK,2026-01-25,3077.83,Monthly TRNS-01 services,PO-SHT-008,invoice-INV-SHT-008-01.pdf
+INV-WTH-001-04,WTH-001,Medi Flow Ltd,2026-04-25,4997.74,Monthly PAS-SMS services,PO-WTH-001,invoice-INV-WTH-001-04.pdf
+INV-NHT-008-02,NHT-008,CareLingo UK,2026-02-25,3124.44,Monthly TRNS-01 services,PO-NHT-008,invoice-INV-NHT-008-02.pdf
+INV-SHT-010-05,SHT-010,NHS Analytics Lab,2026-05-25,11200.13,Monthly ANLY-01 services,PO-SHT-010,invoice-INV-SHT-010-05.pdf
+INV-NHT-006-03,NHT-006,Staff Orbit Limited,2026-03-25,15487.98,Monthly ROST-01 services,PO-NHT-006,invoice-INV-NHT-006-03.pdf
+INV-RUT-009-06,RUT-009,MediFlow Solutions,2026-06-25,3420.82,Monthly DX-MSG services,PO-RUT-009,invoice-INV-RUT-009-06.pdf
+INV-RUT-006-04,RUT-006,Staff Orbit Limited,2026-04-25,10844.94,Monthly ROST-01 services,PO-RUT-006,invoice-INV-RUT-006-04.pdf
+INV-SHT-010-06,SHT-010,NHS Analytics Lab,2026-06-25,10605.9,Monthly ANLY-01 services,PO-SHT-010,invoice-INV-SHT-010-06.pdf
+INV-SHT-002-05,SHT-002,Ward Link Tech,2026-05-25,3360.15,Monthly RMD-SMS services,PO-SHT-002,invoice-INV-SHT-002-05.pdf
+INV-WTH-001-03,WTH-001,Medi Flow Ltd,2026-03-25,5094.16,Monthly PAS-SMS services,PO-WTH-001,invoice-INV-WTH-001-03.pdf
+INV-NHT-007-06,NHT-007,SentinelPoint Consulting,2026-06-25,11654.44,Monthly CYBER-01 services,PO-NHT-007,invoice-INV-NHT-007-06.pdf
+INV-WTH-012-03,WTH-012,Interop Works,2026-03-25,13334.77,Monthly FHIR-01 services,PO-WTH-012,invoice-INV-WTH-012-03.pdf
+INV-WTH-002-03,WTH-002,WardLink Technologies,2026-03-25,3634.83,Monthly RMD-SMS services,PO-WTH-002,invoice-INV-WTH-002-03.pdf
+INV-RUT-008-02,RUT-008,CareLingo UK,2026-02-25,5044.42,Monthly TRNS-01 services,PO-RUT-008,invoice-INV-RUT-008-02.pdf
+INV-RUT-005-02,RUT-005,Nimble Cloud UK,2026-02-25,13006.05,Monthly CLOUD-01 services,PO-RUT-005,invoice-INV-RUT-005-02.pdf
+INV-RUT-005-01,RUT-005,Nimble Cloud UK,2026-01-25,12285.33,Monthly CLOUD-01 services,PO-RUT-005,invoice-INV-RUT-005-01.pdf
+INV-NHT-011-03,NHT-011,ClinicConnect Ltd,2026-03-25,14083.62,Monthly PORTAL-01 services,PO-NHT-011,resubmitted-invoice-INV-NHT-011-03.pdf
+INV-SHT-007-02,SHT-007,SentinelPoint Consulting,2026-02-25,9470.95,Monthly CYBER-01 services,PO-SHT-007,invoice-INV-SHT-007-02.pdf
+INV-SHT-003-05,SHT-003,PulseBridge Health,2026-05-25,22475.6,Monthly RPM-01 services,PO-SHT-003,invoice-INV-SHT-003-05.pdf
+INV-WTH-008-02,WTH-008,CareLingo UK,2026-02-25,2504.64,Monthly TRNS-01 services,PO-WTH-008,invoice-INV-WTH-008-02.pdf
+INV-RUT-009-03,RUT-009,MediFlow Solutions,2026-03-25,3174.89,Monthly DX-MSG services,PO-RUT-009,invoice-INV-RUT-009-03.pdf
+INV-SHT-012-03,SHT-012,InteropWorks PLC,2026-03-25,15313.9,Monthly FHIR-01 services,PO-SHT-012,invoice-INV-SHT-012-03.pdf
+INV-NHT-012-05,NHT-012,Interop Works,2026-05-25,16186.26,Monthly FHIR-01 services,PO-NHT-012,invoice-INV-NHT-012-05.pdf
+INV-SHT-003-04,SHT-003,PulseBridge Health,2026-04-25,23064.34,Monthly RPM-01 services,PO-SHT-003,invoice-INV-SHT-003-04.pdf
+INV-WTH-009-01,WTH-009,MEDIFLOW SOLUTIONS UK,2026-01-25,3178.16,Monthly DX-MSG services,PO-WTH-009,invoice-INV-WTH-009-01.pdf
+INV-SHT-009-05,SHT-009,MEDIFLOW SOLUTIONS UK,2026-05-25,2420.89,Monthly DX-MSG services,PO-SHT-009,invoice-INV-SHT-009-05.pdf
+INV-RUT-004-03,RUT-004,Voxica Systems,2026-03-25,3223.71,Monthly DICT-01 services,PO-RUT-004,invoice-INV-RUT-004-03.pdf
+INV-SHT-010-03,SHT-010,NHS Analytics Lab,2026-03-25,11180.4,Monthly ANLY-01 services,PO-SHT-010,invoice-INV-SHT-010-03.pdf
+INV-SHT-004-01,SHT-004,Voxica Systems,2026-01-25,4093.73,Monthly DICT-01 services,PO-SHT-004,invoice-INV-SHT-004-01.pdf
+INV-NHT-008-04,NHT-008,CareLingo UK,2026-04-25,3088.86,Monthly TRNS-01 services,PO-NHT-008,invoice-INV-NHT-008-04.pdf
+INV-RUT-002-02,RUT-002,WardLink Technologies,2026-02-25,2304.14,Monthly RMD-SMS services,PO-RUT-002,invoice-INV-RUT-002-02.pdf
+INV-WTH-007-01,WTH-007,SentinelPoint Consulting,2026-01-25,6739.51,Monthly CYBER-01 services,PO-WTH-007,invoice-INV-WTH-007-01.pdf
+INV-NHT-012-02,NHT-012,Interop Works,2026-02-25,16373.41,Monthly FHIR-01 services,PO-NHT-012,invoice-INV-NHT-012-02.pdf
+INV-SHT-004-04,SHT-004,Voxica Systems,2026-04-25,4442.36,Monthly DICT-01 services,PO-SHT-004,invoice-INV-SHT-004-04.pdf
+INV-RUT-001-01,RUT-001,Medi Flow Ltd,2026-01-25,6314.07,Monthly PAS-SMS services,PO-RUT-001,invoice-INV-RUT-001-01.pdf
+INV-SHT-006-03,SHT-006,StaffOrbit Ltd,2026-03-25,11463.41,Monthly ROST-01 services,PO-SHT-006,invoice-INV-SHT-006-03.pdf
+INV-NHT-012-03,NHT-012,Interop Works,2026-03-25,15161.68,Monthly FHIR-01 services,PO-NHT-012,invoice-INV-NHT-012-03.pdf
+INV-SHT-003-01,SHT-003,PulseBridge Health,2026-01-25,23197.27,Monthly RPM-01 services,PO-SHT-003,invoice-INV-SHT-003-01.pdf
+INV-NHT-003-06,NHT-003,PulseBridge Health,2026-06-25,13826.46,Monthly RPM-01 services,PO-NHT-003,invoice-INV-NHT-003-06.pdf
+INV-NHT-010-01,NHT-010,NHS Analytics Lab,2026-01-25,8098.99,Monthly ANLY-01 services,PO-NHT-010,invoice-INV-NHT-010-01.pdf
+INV-RUT-002-03,RUT-002,WardLink Technologies,2026-03-25,2102.78,Monthly RMD-SMS services,PO-RUT-002,invoice-INV-RUT-002-03.pdf
+INV-RUT-006-01,RUT-006,Staff Orbit Limited,2026-01-25,10346.94,Monthly ROST-01 services,PO-RUT-006,invoice-INV-RUT-006-01.pdf
+INV-WTH-001-05,WTH-001,Medi Flow Ltd,2026-05-25,5062.43,Monthly PAS-SMS services,PO-WTH-001,invoice-INV-WTH-001-05.pdf
+INV-NHT-001-04,NHT-001,MediFlow Solutions,2026-04-25,2611.93,Monthly PAS-SMS services,PO-NHT-001,invoice-INV-NHT-001-04.pdf
+INV-WTH-011-06,WTH-011,ClinicConnect Ltd,2026-06-25,10810.58,Monthly PORTAL-01 services,PO-WTH-011,invoice-INV-WTH-011-06.pdf
+INV-WTH-002-05,WTH-002,WardLink Technologies,2026-05-25,3346.41,Monthly RMD-SMS services,PO-WTH-002,invoice-INV-WTH-002-05.pdf
+INV-RUT-004-05,RUT-004,Voxica Systems,2026-05-25,3460.06,Monthly DICT-01 services,PO-RUT-004,invoice-INV-RUT-004-05.pdf
+INV-NHT-009-04,NHT-009,MEDIFLOW SOLUTIONS UK,2026-04-25,2466.8,Monthly DX-MSG services,PO-NHT-009,invoice-INV-NHT-009-04.pdf
+INV-RUT-013-01,RUT-013,Clinic Connect UK Ltd,2026-01-25,5221.31,Monthly PORTAL-01 services,PO-RUT-013,invoice-INV-RUT-013-01.pdf
+INV-NHT-005-04,NHT-005,Nimble Cloud UK,2026-04-25,11375.04,Monthly CLOUD-01 services,PO-NHT-005,invoice-INV-NHT-005-04.pdf
+INV-WTH-010-03,WTH-010,NHS Analytics Lab,2026-03-25,9069.16,Monthly ANLY-01 services,PO-WTH-010,invoice-INV-WTH-010-03.pdf
+INV-NHT-007-02,NHT-007,SentinelPoint Consulting,2026-02-25,11279.22,Monthly CYBER-01 services,PO-NHT-007,invoice-INV-NHT-007-02.pdf
+INV-SHT-011-06,SHT-011,ClinicConnect Ltd,2026-06-25,9735.25,Monthly PORTAL-01 services,PO-SHT-011,invoice-INV-SHT-011-06.pdf
+INV-RUT-002-05,RUT-002,WardLink Technologies,2026-05-25,2385.18,Monthly RMD-SMS services,PO-RUT-002,invoice-INV-RUT-002-05.pdf
+INV-WTH-004-02,WTH-004,Voxica Systems,2026-02-25,3583.46,Monthly DICT-01 services,PO-WTH-004,invoice-INV-WTH-004-02.pdf
+INV-WTH-010-01,WTH-010,NHS Analytics Lab,2026-01-25,9846.16,Monthly ANLY-01 services,PO-WTH-010,invoice-INV-WTH-010-01.pdf
+INV-RUT-012-03,RUT-012,Interop Works,2026-03-25,11100.62,Monthly FHIR-01 services,PO-RUT-012,invoice-INV-RUT-012-03.pdf
+INV-NHT-009-06,NHT-009,MEDIFLOW SOLUTIONS UK,2026-06-25,2440.11,Monthly DX-MSG services,PO-NHT-009,invoice-INV-NHT-009-06.pdf
+INV-NHT-006-02,NHT-006,Staff Orbit Limited,2026-02-25,16194.99,Monthly ROST-01 services,PO-NHT-006,invoice-INV-NHT-006-02.pdf
+INV-NHT-011-02,NHT-011,ClinicConnect Ltd,2026-02-25,15730.03,Monthly PORTAL-01 services,PO-NHT-011,invoice-INV-NHT-011-02.pdf
+INV-SHT-011-03,SHT-011,ClinicConnect Ltd,2026-03-25,8659.55,Monthly PORTAL-01 services,PO-SHT-011,invoice-INV-SHT-011-03.pdf
+INV-WTH-011-01,WTH-011,ClinicConnect Ltd,2026-01-25,10584.18,Monthly PORTAL-01 services,PO-WTH-011,invoice-INV-WTH-011-01.pdf
+INV-NHT-011-01,NHT-011,ClinicConnect Ltd,2026-01-25,14195.74,Monthly PORTAL-01 services,PO-NHT-011,invoice-INV-NHT-011-01.pdf
+INV-SHT-007-01,SHT-007,SentinelPoint Consulting,2026-01-25,9452.67,Monthly CYBER-01 services,PO-SHT-007,invoice-INV-SHT-007-01.pdf
+INV-WTH-002-02,WTH-002,WardLink Technologies,2026-02-25,3328.21,Monthly RMD-SMS services,PO-WTH-002,invoice-INV-WTH-002-02.pdf
+INV-SHT-011-04,SHT-011,ClinicConnect Ltd,2026-04-25,8462.44,Monthly PORTAL-01 services,PO-SHT-011,invoice-INV-SHT-011-04.pdf
+INV-SHT-005-06,SHT-005,NimbleCloud UK,2026-06-25,10507.41,Monthly CLOUD-01 services,PO-SHT-005,invoice-INV-SHT-005-06.pdf
+INV-NHT-008-06,NHT-008,CareLingo UK,2026-06-25,3233.77,Monthly TRNS-01 services,PO-NHT-008,invoice-INV-NHT-008-06.pdf
+INV-SHT-008-02,SHT-008,CareLingo UK,2026-02-25,3441.92,Monthly TRNS-01 services,PO-SHT-008,invoice-INV-SHT-008-02.pdf
+INV-WTH-006-03,WTH-006,Staff Orbit Limited,2026-03-25,8266.81,Monthly ROST-01 services,PO-WTH-006,invoice-INV-WTH-006-03.pdf
+INV-RUT-001-04,RUT-001,Medi Flow Ltd,2026-04-25,5836.62,Monthly PAS-SMS services,PO-RUT-001,invoice-INV-RUT-001-04.pdf
+INV-NHT-003-04,NHT-003,PulseBridge Health,2026-04-25,12960.96,Monthly RPM-01 services,PO-NHT-003,invoice-INV-NHT-003-04.pdf
+INV-SHT-002-03,SHT-002,Ward Link Tech,2026-03-25,3436.41,Monthly RMD-SMS services,PO-SHT-002,invoice-INV-SHT-002-03.pdf
+INV-WTH-006-02,WTH-006,Staff Orbit Limited,2026-02-25,8154.52,Monthly ROST-01 services,PO-WTH-006,invoice-INV-WTH-006-02.pdf
+INV-SHT-007-04,SHT-007,SentinelPoint Consulting,2026-04-25,9610.79,Monthly CYBER-01 services,PO-SHT-007,invoice-INV-SHT-007-04.pdf
+INV-NHT-004-03,NHT-004,Voxica Systems,2026-03-25,4445.01,Monthly DICT-01 services,PO-NHT-004,invoice-INV-NHT-004-03.pdf
+INV-WTH-005-02,WTH-005,Nimble Cloud UK,2026-02-25,11459.3,Monthly CLOUD-01 services,PO-WTH-005,invoice-INV-WTH-005-02.pdf
+INV-NHT-005-03,NHT-005,Nimble Cloud UK,2026-03-25,11752.52,Monthly CLOUD-01 services,PO-NHT-005,invoice-INV-NHT-005-03.pdf
+INV-RUT-003-03,RUT-003,PulseBridge Health,2026-03-25,8590.93,Monthly RPM-01 services,PO-RUT-003,invoice-INV-RUT-003-03.pdf
+INV-WTH-007-05,WTH-007,SentinelPoint Consulting,2026-05-25,6584.35,Monthly CYBER-01 services,PO-WTH-007,invoice-INV-WTH-007-05.pdf
+INV-RUT-013-05,RUT-013,Clinic Connect UK Ltd,2026-05-25,4859.63,Monthly PORTAL-01 services,PO-RUT-013,invoice-INV-RUT-013-05.pdf
+INV-RUT-007-05,RUT-007,SentinelPoint Consulting,2026-05-25,8997.13,Monthly CYBER-01 services,PO-RUT-007,invoice-INV-RUT-007-05.pdf
+INV-RUT-008-01,RUT-008,CareLingo UK,2026-01-25,4881.63,Monthly TRNS-01 services,PO-RUT-008,resubmitted-invoice-INV-RUT-008-01.pdf
+INV-RUT-001-03,RUT-001,Medi Flow Ltd,2026-03-25,6238.44,Monthly PAS-SMS services,PO-RUT-001,invoice-INV-RUT-001-03.pdf
+INV-NHT-002-05,NHT-002,WardLink Technologies,2026-05-25,3794.28,Monthly RMD-SMS services,PO-NHT-002,invoice-INV-NHT-002-05.pdf
+INV-SHT-004-05,SHT-004,Voxica Systems,2026-05-25,4174.45,Monthly DICT-01 services,PO-SHT-004,invoice-INV-SHT-004-05.pdf
+INV-NHT-002-02,NHT-002,WardLink Technologies,2026-02-25,3731.36,Monthly RMD-SMS services,PO-NHT-002,invoice-INV-NHT-002-02.pdf
+INV-SHT-002-04,SHT-002,Ward Link Tech,2026-04-25,3725.3,Monthly RMD-SMS services,PO-SHT-002,invoice-INV-SHT-002-04.pdf
+INV-SHT-007-03,SHT-007,SentinelPoint Consulting,2026-03-25,8973.3,Monthly CYBER-01 services,PO-SHT-007,invoice-INV-SHT-007-03.pdf
+INV-WTH-005-04,WTH-005,Nimble Cloud UK,2026-04-25,10891.22,Monthly CLOUD-01 services,PO-WTH-005,invoice-INV-WTH-005-04.pdf
+INV-RUT-003-05,RUT-003,PulseBridge Health,2026-05-25,8205.71,Monthly RPM-01 services,PO-RUT-003,invoice-INV-RUT-003-05.pdf
+INV-WTH-010-06,WTH-010,NHS Analytics Lab,2026-06-25,9368.42,Monthly ANLY-01 services,PO-WTH-010,invoice-INV-WTH-010-06.pdf
+INV-NHT-001-02,NHT-001,MediFlow Solutions,2026-02-25,3004.72,Monthly PAS-SMS services,PO-NHT-001,invoice-INV-NHT-001-02.pdf
+INV-WTH-004-01,WTH-004,Voxica Systems,2026-01-25,3430.63,Monthly DICT-01 services,PO-WTH-004,invoice-INV-WTH-004-01.pdf
+INV-SHT-003-02,SHT-003,PulseBridge Health,2026-02-25,25270.65,Monthly RPM-01 services,PO-SHT-003,invoice-INV-SHT-003-02.pdf
+INV-NHT-003-03,NHT-003,PulseBridge Health,2026-03-25,14339.03,Monthly RPM-01 services,PO-NHT-003,invoice-INV-NHT-003-03.pdf
+INV-NHT-002-03,NHT-002,WardLink Technologies,2026-03-25,4130.98,Monthly RMD-SMS services,PO-NHT-002,invoice-INV-NHT-002-03.pdf
+INV-RUT-011-06,RUT-011,ClinicConnect Ltd,2026-06-25,21280.59,Monthly PORTAL-01 services,PO-RUT-011,invoice-INV-RUT-011-06.pdf
+INV-SHT-001-03,SHT-001,Medi Flow Ltd,2026-03-25,3871.94,Monthly PAS-SMS services,PO-SHT-001,invoice-INV-SHT-001-03.pdf
+INV-RUT-002-04,RUT-002,WardLink Technologies,2026-04-25,2238.59,Monthly RMD-SMS services,PO-RUT-002,resubmitted-invoice-INV-RUT-002-04.pdf
+INV-NHT-007-04,NHT-007,SentinelPoint Consulting,2026-04-25,10891.6,Monthly CYBER-01 services,PO-NHT-007,invoice-INV-NHT-007-04.pdf
+INV-SHT-006-04,SHT-006,StaffOrbit Ltd,2026-04-25,11790.75,Monthly ROST-01 services,PO-SHT-006,invoice-INV-SHT-006-04.pdf
+INV-SHT-002-01,SHT-002,Ward Link Tech,2026-01-25,3607.74,Monthly RMD-SMS services,PO-SHT-002,invoice-INV-SHT-002-01.pdf
+INV-RUT-003-01,RUT-003,PulseBridge Health,2026-01-25,8445.32,Monthly RPM-01 services,PO-RUT-003,invoice-INV-RUT-003-01.pdf
+INV-MISC-1,MISSING,Unmapped Vendor,2026-06-14,12900,Unmapped service,UNASSIGNED,invoice-unmapped-1.pdf
+INV-RUT-002-04,RUT-002,WardLink Technologies,2026-04-25,2238.59,Monthly RMD-SMS services,PO-RUT-002,invoice-INV-RUT-002-04.pdf
+INV-WTH-007-03,WTH-007,SentinelPoint Consulting,2026-03-25,6399.72,Monthly CYBER-01 services,PO-WTH-007,invoice-INV-WTH-007-03.pdf
+INV-SHT-005-05,SHT-005,NimbleCloud UK,2026-05-25,9935.94,Monthly CLOUD-01 services,PO-SHT-005,invoice-INV-SHT-005-05.pdf
+INV-NHT-002-02,NHT-002,WardLink Technologies,2026-02-25,3731.36,Monthly RMD-SMS services,PO-NHT-002,resubmitted-invoice-INV-NHT-002-02.pdf
+INV-NHT-012-01,NHT-012,Interop Works,2026-01-25,15226.04,Monthly FHIR-01 services,PO-NHT-012,invoice-INV-NHT-012-01.pdf
+INV-RUT-007-03,RUT-007,SentinelPoint Consulting,2026-03-25,10331.67,Monthly CYBER-01 services,PO-RUT-007,invoice-INV-RUT-007-03.pdf
+INV-NHT-008-05,NHT-008,CareLingo UK,2026-05-25,2988.9,Monthly TRNS-01 services,PO-NHT-008,invoice-INV-NHT-008-05.pdf
+INV-WTH-006-06,WTH-006,Staff Orbit Limited,2026-06-25,8530.61,Monthly ROST-01 services,PO-WTH-006,invoice-INV-WTH-006-06.pdf
+INV-SHT-012-04,SHT-012,InteropWorks PLC,2026-04-25,14720.22,Monthly FHIR-01 services,PO-SHT-012,invoice-INV-SHT-012-04.pdf
+INV-SHT-006-02,SHT-006,StaffOrbit Ltd,2026-02-25,11869.79,Monthly ROST-01 services,PO-SHT-006,invoice-INV-SHT-006-02.pdf
+INV-WTH-004-04,WTH-004,Voxica Systems,2026-04-25,3424.86,Monthly DICT-01 services,PO-WTH-004,invoice-INV-WTH-004-04.pdf
+INV-RUT-010-03,RUT-010,NHS Analytics Lab,2026-03-25,11000.75,Monthly ANLY-01 services,PO-RUT-010,invoice-INV-RUT-010-03.pdf
+INV-WTH-003-04,WTH-003,PulseBridge Health,2026-04-25,11446.44,Monthly RPM-01 services,PO-WTH-003,invoice-INV-WTH-003-04.pdf
+INV-SHT-003-03,SHT-003,PulseBridge Health,2026-03-25,23116.64,Monthly RPM-01 services,PO-SHT-003,invoice-INV-SHT-003-03.pdf
+INV-RUT-007-01,RUT-007,SentinelPoint Consulting,2026-01-25,9679.23,Monthly CYBER-01 services,PO-RUT-007,invoice-INV-RUT-007-01.pdf
+INV-RUT-001-02,RUT-001,Medi Flow Ltd,2026-02-25,6225.62,Monthly PAS-SMS services,PO-RUT-001,invoice-INV-RUT-001-02.pdf
+INV-WTH-004-03,WTH-004,Voxica Systems,2026-03-25,3705.73,Monthly DICT-01 services,PO-WTH-004,invoice-INV-WTH-004-03.pdf
+INV-SHT-010-04,SHT-010,NHS Analytics Lab,2026-04-25,10746.95,Monthly ANLY-01 services,PO-SHT-010,invoice-INV-SHT-010-04.pdf
+INV-RUT-004-02,RUT-004,Voxica Systems,2026-02-25,3346.28,Monthly DICT-01 services,PO-RUT-004,invoice-INV-RUT-004-02.pdf
+INV-SHT-012-02,SHT-012,InteropWorks PLC,2026-02-25,14921.25,Monthly FHIR-01 services,PO-SHT-012,invoice-INV-SHT-012-02.pdf
+INV-NHT-004-05,NHT-004,Voxica Systems,2026-05-25,4216.07,Monthly DICT-01 services,PO-NHT-004,invoice-INV-NHT-004-05.pdf
+INV-RUT-009-04,RUT-009,MediFlow Solutions,2026-04-25,3064.69,Monthly DX-MSG services,PO-RUT-009,invoice-INV-RUT-009-04.pdf
+INV-WTH-009-03,WTH-009,MEDIFLOW SOLUTIONS UK,2026-03-25,3288.62,Monthly DX-MSG services,PO-WTH-009,invoice-INV-WTH-009-03.pdf
+INV-WTH-003-01,WTH-003,PulseBridge Health,2026-01-25,12951.71,Monthly RPM-01 services,PO-WTH-003,invoice-INV-WTH-003-01.pdf
+INV-NHT-005-05,NHT-005,Nimble Cloud UK,2026-05-25,12448.93,Monthly CLOUD-01 services,PO-NHT-005,invoice-INV-NHT-005-05.pdf
+INV-NHT-007-03,NHT-007,SentinelPoint Consulting,2026-03-25,10152.0,Monthly CYBER-01 services,PO-NHT-007,invoice-INV-NHT-007-03.pdf
+INV-SHT-011-01,SHT-011,ClinicConnect Ltd,2026-01-25,9123.36,Monthly PORTAL-01 services,PO-SHT-011,invoice-INV-SHT-011-01.pdf
+INV-SHT-009-02,SHT-009,MEDIFLOW SOLUTIONS UK,2026-02-25,2631.61,Monthly DX-MSG services,PO-SHT-009,invoice-INV-SHT-009-02.pdf
+INV-NHT-010-04,NHT-010,NHS Analytics Lab,2026-04-25,8046.13,Monthly ANLY-01 services,PO-NHT-010,invoice-INV-NHT-010-04.pdf
+INV-RUT-002-01,RUT-002,WardLink Technologies,2026-01-25,2279.43,Monthly RMD-SMS services,PO-RUT-002,invoice-INV-RUT-002-01.pdf
+INV-NHT-004-06,NHT-004,Voxica Systems,2026-06-25,4216.85,Monthly DICT-01 services,PO-NHT-004,invoice-INV-NHT-004-06.pdf
+INV-NHT-011-05,NHT-011,ClinicConnect Ltd,2026-05-25,14378.59,Monthly PORTAL-01 services,PO-NHT-011,invoice-INV-NHT-011-05.pdf
+INV-RUT-009-05,RUT-009,MediFlow Solutions,2026-05-25,3315.76,Monthly DX-MSG services,PO-RUT-009,invoice-INV-RUT-009-05.pdf
+INV-WTH-011-04,WTH-011,ClinicConnect Ltd,2026-04-25,9890.82,Monthly PORTAL-01 services,PO-WTH-011,invoice-INV-WTH-011-04.pdf
+INV-SHT-008-05,SHT-008,CareLingo UK,2026-05-25,2970.41,Monthly TRNS-01 services,PO-SHT-008,invoice-INV-SHT-008-05.pdf
+INV-NHT-004-01,NHT-004,Voxica Systems,2026-01-25,4241.66,Monthly DICT-01 services,PO-NHT-004,invoice-INV-NHT-004-01.pdf
+INV-NHT-010-02,NHT-010,NHS Analytics Lab,2026-02-25,8154.79,Monthly ANLY-01 services,PO-NHT-010,invoice-INV-NHT-010-02.pdf
+INV-RUT-003-02,RUT-003,PulseBridge Health,2026-02-25,8061.66,Monthly RPM-01 services,PO-RUT-003,invoice-INV-RUT-003-02.pdf
+INV-NHT-010-03,NHT-010,NHS Analytics Lab,2026-03-25,7476.19,Monthly ANLY-01 services,PO-NHT-010,invoice-INV-NHT-010-03.pdf
+INV-WTH-008-01,WTH-008,CareLingo UK,2026-01-25,2553.37,Monthly TRNS-01 services,PO-WTH-008,invoice-INV-WTH-008-01.pdf
+INV-WTH-005-05,WTH-005,Nimble Cloud UK,2026-05-25,11005.89,Monthly CLOUD-01 services,PO-WTH-005,invoice-INV-WTH-005-05.pdf
+INV-SHT-008-06,SHT-008,CareLingo UK,2026-06-25,3061.2,Monthly TRNS-01 services,PO-SHT-008,invoice-INV-SHT-008-06.pdf
+INV-NHT-012-06,NHT-012,Interop Works,2026-06-25,16272.47,Monthly FHIR-01 services,PO-NHT-012,invoice-INV-NHT-012-06.pdf
+INV-RUT-013-06,RUT-013,Clinic Connect UK Ltd,2026-06-25,4970.89,Monthly PORTAL-01 services,PO-RUT-013,invoice-INV-RUT-013-06.pdf
+INV-RUT-003-06,RUT-003,PulseBridge Health,2026-06-25,8026.99,Monthly RPM-01 services,PO-RUT-003,invoice-INV-RUT-003-06.pdf
+INV-NHT-003-02,NHT-003,PulseBridge Health,2026-02-25,13331.26,Monthly RPM-01 services,PO-NHT-003,invoice-INV-NHT-003-02.pdf
+INV-NHT-012-04,NHT-012,Interop Works,2026-04-25,15576.55,Monthly FHIR-01 services,PO-NHT-012,invoice-INV-NHT-012-04.pdf
+INV-RUT-005-05,RUT-005,Nimble Cloud UK,2026-05-25,12883.34,Monthly CLOUD-01 services,PO-RUT-005,invoice-INV-RUT-005-05.pdf
+INV-WTH-006-05,WTH-006,Staff Orbit Limited,2026-05-25,8099.8,Monthly ROST-01 services,PO-WTH-006,invoice-INV-WTH-006-05.pdf
+INV-SHT-006-06,SHT-006,StaffOrbit Ltd,2026-06-25,12590.14,Monthly ROST-01 services,PO-SHT-006,invoice-INV-SHT-006-06.pdf
+INV-WTH-001-01,WTH-001,Medi Flow Ltd,2026-01-25,4547.71,Monthly PAS-SMS services,PO-WTH-001,invoice-INV-WTH-001-01.pdf
+INV-NHT-003-01,NHT-003,PulseBridge Health,2026-01-25,14456.7,Monthly RPM-01 services,PO-NHT-003,invoice-INV-NHT-003-01.pdf
+INV-SHT-001-05,SHT-001,Medi Flow Ltd,2026-05-25,4237.62,Monthly PAS-SMS services,PO-SHT-001,invoice-INV-SHT-001-05.pdf
+INV-WTH-009-06,WTH-009,MEDIFLOW SOLUTIONS UK,2026-06-25,3366.34,Monthly DX-MSG services,PO-WTH-009,invoice-INV-WTH-009-06.pdf
+INV-RUT-010-02,RUT-010,NHS Analytics Lab,2026-02-25,10082.83,Monthly ANLY-01 services,PO-RUT-010,invoice-INV-RUT-010-02.pdf
+INV-SHT-012-01,SHT-012,InteropWorks PLC,2026-01-25,15229.91,Monthly FHIR-01 services,PO-SHT-012,invoice-INV-SHT-012-01.pdf
+INV-WTH-011-03,WTH-011,ClinicConnect Ltd,2026-03-25,9891.8,Monthly PORTAL-01 services,PO-WTH-011,invoice-INV-WTH-011-03.pdf
+INV-NHT-008-03,NHT-008,CareLingo UK,2026-03-25,2882.58,Monthly TRNS-01 services,PO-NHT-008,invoice-INV-NHT-008-03.pdf

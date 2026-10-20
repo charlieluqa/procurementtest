@@ -1,0 +1,11 @@
+DEMONSTRATION CONTRACT ABSTRACT — FICTIONAL — NOT AN ACTUAL NHS AGREEMENT
+Agreement reference: RUT-013
+Customer: Riverton University NHS Trust
+Supplier as recorded: Clinic Connect UK Ltd
+Service definition: Patient portal (PORTAL-01)
+Term: 2025-02-02 to 2027-02-02
+Pricing: 20 annual units at GBP 3000.0 per unit (nominal). Volume may change.
+Renewal/notice: The customer must give 90 days' notice before expiration to avoid renewal.
+Break terms: Termination outside the stated period is subject to contract review. No unilateral penalty-free break is guaranteed.
+Savings caveat: Pricing is not proof of service equivalence. Any consolidation requires clinical, operational, legal and information-governance approval.
+Synthetic source provenance: generated for a technical exercise on 20 October 2026.
