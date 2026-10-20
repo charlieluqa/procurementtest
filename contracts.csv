@@ -1,0 +1,50 @@
+contract_id,trust,category,service_code,supplier_name,start_date,end_date,annual_units,unit_type,price_per_unit_gbp,contract_currency,notice_days,auto_renew,owner,evidence_file
+RUT-001,Riverton University NHS Trust,Patient communications,PAS-SMS,Medi Flow Ltd,2026-02-23,2027-01-14,1357197,messages,0.055,GBP,30,No,Procurement,contracts/RUT-001.txt
+RUT-002,Riverton University NHS Trust,Appointment reminders,RMD-SMS,WardLink Technologies,2025-09-18,2027-09-18,741431,messages,0.0364,GBP,60,No,Procurement,contracts/RUT-002.txt
+RUT-003,Riverton University NHS Trust,Remote monitoring,RPM-01,PulseBridge Health,2025-12-10,2027-12-10,8155,licences/services,12.0152,GBP,30,Yes,Procurement,contracts/RUT-003.txt
+RUT-004,Riverton University NHS Trust,Digital dictation,DICT-01,Voxica Systems,2026-01-16,2027-03-20,181,licences/services,220.0577,GBP,90,Yes,Procurement,contracts/RUT-004.txt
+RUT-005,Riverton University NHS Trust,Cloud hosting,CLOUD-01,Nimble Cloud UK,2026-01-01,2028-01-01,79,licences/services,1930.1858,GBP,60,Yes,Procurement,contracts/RUT-005.txt
+RUT-006,Riverton University NHS Trust,Workforce rostering,ROST-01,Staff Orbit Limited,2025-09-17,2027-09-17,2400,licences/services,52.5177,GBP,60,No,Procurement,contracts/RUT-006.txt
+RUT-007,Riverton University NHS Trust,Cyber assurance,CYBER-01,SentinelPoint Consulting,2025-10-19,2026-12-14,100,licences/services,1168.7364,GBP,90,Yes,Procurement,contracts/RUT-007.txt
+RUT-008,Riverton University NHS Trust,Translation,TRNS-01,CareLingo UK,2025-07-23,2027-07-23,1915,licences/services,29.7322,GBP,120,No,Procurement,contracts/RUT-008.txt
+RUT-009,Riverton University NHS Trust,Diagnostics messaging,DX-MSG,MediFlow Solutions,2025-07-24,2028-07-23,553593,messages,0.0712,GBP,60,No,Procurement,contracts/RUT-009.txt
+RUT-010,Riverton University NHS Trust,Analytics platform,ANLY-01,NHS Analytics Lab,2025-08-04,2027-03-14,13,licences/services,10078.0557,GBP,60,Yes,Procurement,contracts/RUT-010.txt
+RUT-011,Riverton University NHS Trust,Patient portal,PORTAL-01,ClinicConnect Ltd,2025-02-02,2027-02-02,65,licences/services,4032.0,GBP,60,Yes,Procurement,contracts/RUT-011.txt
+RUT-012,Riverton University NHS Trust,Records integration,FHIR-01,Interop Works,2026-03-09,2028-03-08,139,licences/services,949.3299,GBP,120,Yes,Procurement,contracts/RUT-012.txt
+WTH-001,Westbrook Teaching Hospitals NHS Trust,Patient communications,PAS-SMS,Medi Flow Ltd,2025-12-25,2027-01-30,971990,messages,0.0605,GBP,120,No,Procurement,contracts/WTH-001.txt
+WTH-002,Westbrook Teaching Hospitals NHS Trust,Appointment reminders,RMD-SMS,WardLink Technologies,2025-09-02,2028-09-01,1074151,messages,0.0404,GBP,120,Yes,Procurement,contracts/WTH-002.txt
+WTH-003,Westbrook Teaching Hospitals NHS Trust,Remote monitoring,RPM-01,PulseBridge Health,2025-09-01,2028-08-31,9552,licences/services,15.3437,GBP,30,No,Procurement,contracts/WTH-003.txt
+WTH-004,Westbrook Teaching Hospitals NHS Trust,Digital dictation,DICT-01,Voxica Systems,2025-10-27,2026-11-27,247,licences/services,171.7265,GBP,120,Yes,Procurement,contracts/WTH-004.txt
+WTH-005,Westbrook Teaching Hospitals NHS Trust,Cloud hosting,CLOUD-01,Nimble Cloud UK,2025-09-12,2028-09-11,71,licences/services,1921.202,GBP,30,No,Procurement,contracts/WTH-005.txt
+WTH-006,Westbrook Teaching Hospitals NHS Trust,Workforce rostering,ROST-01,Staff Orbit Limited,2026-05-11,2029-05-10,1847,licences/services,56.4855,GBP,120,Yes,Procurement,contracts/WTH-006.txt
+WTH-007,Westbrook Teaching Hospitals NHS Trust,Cyber assurance,CYBER-01,SentinelPoint Consulting,2025-01-31,2027-01-15,52,licences/services,1457.8177,GBP,90,Yes,Procurement,contracts/WTH-007.txt
+WTH-008,Westbrook Teaching Hospitals NHS Trust,Translation,TRNS-01,CareLingo UK,2025-11-24,2028-11-23,981,licences/services,30.112,GBP,30,Yes,Procurement,contracts/WTH-008.txt
+WTH-009,Westbrook Teaching Hospitals NHS Trust,Diagnostics messaging,DX-MSG,MEDIFLOW SOLUTIONS UK,2025-03-18,2028-03-17,527812,messages,0.0785,GBP,120,Yes,Procurement,contracts/WTH-009.txt
+WTH-010,Westbrook Teaching Hospitals NHS Trust,Analytics platform,ANLY-01,NHS Analytics Lab,2026-03-11,2026-11-30,10,licences/services,11504.4634,GBP,120,No,Procurement,contracts/WTH-010.txt
+WTH-011,Westbrook Teaching Hospitals NHS Trust,Patient portal,PORTAL-01,ClinicConnect Ltd,2025-05-21,2028-05-20,60,licences/services,2147.698,GBP,120,Yes,Procurement,contracts/WTH-011.txt
+WTH-012,Westbrook Teaching Hospitals NHS Trust,Records integration,FHIR-01,Interop Works,2026-02-08,2028-02-08,180,licences/services,959.6702,GBP,120,Yes,Procurement,contracts/WTH-012.txt
+NHT-001,Northgate Health NHS Trust,Patient communications,PAS-SMS,MediFlow Solutions,2026-02-07,2026-11-24,857241,messages,0.0397,GBP,60,Yes,Procurement,contracts/NHT-001.txt
+NHT-002,Northgate Health NHS Trust,Appointment reminders,RMD-SMS,WardLink Technologies,2025-07-02,2027-07-02,1108867,messages,0.0418,GBP,90,Yes,Procurement,contracts/NHT-002.txt
+NHT-003,Northgate Health NHS Trust,Remote monitoring,RPM-01,PulseBridge Health,2025-02-23,2027-02-23,10143,licences/services,16.3659,GBP,120,Yes,Procurement,contracts/NHT-003.txt
+NHT-004,Northgate Health NHS Trust,Digital dictation,DICT-01,Voxica Systems,2025-12-07,2027-01-22,274,licences/services,197.3009,GBP,90,Yes,Procurement,contracts/NHT-004.txt
+NHT-005,Northgate Health NHS Trust,Cloud hosting,CLOUD-01,Nimble Cloud UK,2026-02-18,2029-02-17,61,licences/services,2301.9635,GBP,30,No,Procurement,contracts/NHT-005.txt
+NHT-006,Northgate Health NHS Trust,Workforce rostering,ROST-01,Staff Orbit Limited,2025-07-08,2027-07-08,2237,licences/services,86.02,GBP,30,No,Procurement,contracts/NHT-006.txt
+NHT-007,Northgate Health NHS Trust,Cyber assurance,CYBER-01,SentinelPoint Consulting,2025-06-03,2027-03-10,91,licences/services,1452.6541,GBP,30,No,Procurement,contracts/NHT-007.txt
+NHT-008,Northgate Health NHS Trust,Translation,TRNS-01,CareLingo UK,2025-05-06,2027-05-06,1231,licences/services,30.4276,GBP,90,No,Procurement,contracts/NHT-008.txt
+NHT-009,Northgate Health NHS Trust,Diagnostics messaging,DX-MSG,MEDIFLOW SOLUTIONS UK,2026-02-08,2028-02-08,565279,messages,0.0562,GBP,30,No,Procurement,contracts/NHT-009.txt
+NHT-010,Northgate Health NHS Trust,Analytics platform,ANLY-01,NHS Analytics Lab,2025-06-01,2027-02-03,11,licences/services,8850.9725,GBP,90,No,Procurement,contracts/NHT-010.txt
+NHT-011,Northgate Health NHS Trust,Patient portal,PORTAL-01,ClinicConnect Ltd,2025-02-19,2027-02-19,69,licences/services,2573.2913,GBP,120,Yes,Procurement,contracts/NHT-011.txt
+NHT-012,Northgate Health NHS Trust,Records integration,FHIR-01,Interop Works,2026-05-05,2029-05-04,210,licences/services,890.1859,GBP,60,No,Procurement,contracts/NHT-012.txt
+SHT-001,Southford Hospital NHS Trust,Patient communications,PAS-SMS,Medi Flow Ltd,2025-04-04,2026-12-31,930949,messages,0.0525,GBP,120,No,Procurement,contracts/SHT-001.txt
+SHT-002,Southford Hospital NHS Trust,Appointment reminders,RMD-SMS,Ward Link Tech,2026-01-27,2028-01-27,1155754,messages,0.0378,GBP,90,Yes,Procurement,contracts/SHT-002.txt
+SHT-003,Southford Hospital NHS Trust,Remote monitoring,RPM-01,PulseBridge Health,2025-06-09,2027-06-09,13874,licences/services,20.5,GBP,90,No,Procurement,contracts/SHT-003.txt
+SHT-004,Southford Hospital NHS Trust,Digital dictation,DICT-01,Voxica Systems,2025-05-26,2027-04-01,277,licences/services,183.3038,GBP,60,Yes,Procurement,contracts/SHT-004.txt
+SHT-005,Southford Hospital NHS Trust,Cloud hosting,CLOUD-01,NimbleCloud UK,2025-08-22,2027-08-22,65,licences/services,1917.4216,GBP,90,Yes,Procurement,contracts/SHT-005.txt
+SHT-006,Southford Hospital NHS Trust,Workforce rostering,ROST-01,StaffOrbit Ltd,2026-01-12,2029-01-11,2466,licences/services,58.8607,GBP,120,No,Procurement,contracts/SHT-006.txt
+SHT-007,Southford Hospital NHS Trust,Cyber assurance,CYBER-01,SentinelPoint Consulting,2025-06-04,2027-02-18,75,licences/services,1466.6631,GBP,90,Yes,Procurement,contracts/SHT-007.txt
+SHT-008,Southford Hospital NHS Trust,Translation,TRNS-01,CareLingo UK,2026-01-30,2029-01-29,1396,licences/services,27.6778,GBP,30,Yes,Procurement,contracts/SHT-008.txt
+SHT-009,Southford Hospital NHS Trust,Diagnostics messaging,DX-MSG,MEDIFLOW SOLUTIONS UK,2025-04-14,2028-04-13,544257,messages,0.0563,GBP,60,No,Procurement,contracts/SHT-009.txt
+SHT-010,Southford Hospital NHS Trust,Analytics platform,ANLY-01,NHS Analytics Lab,2025-01-15,2027-01-19,12,licences/services,10545.5853,GBP,90,Yes,Procurement,contracts/SHT-010.txt
+SHT-011,Southford Hospital NHS Trust,Patient portal,PORTAL-01,ClinicConnect Ltd,2025-06-28,2028-06-27,48,licences/services,2291.9528,GBP,60,No,Procurement,contracts/SHT-011.txt
+SHT-012,Southford Hospital NHS Trust,Records integration,FHIR-01,InteropWorks PLC,2025-05-20,2027-05-20,223,licences/services,822.7004,GBP,30,Yes,Procurement,contracts/SHT-012.txt
+RUT-013,Riverton University NHS Trust,Patient portal,PORTAL-01,Clinic Connect UK Ltd,2025-02-02,2027-02-02,20,licences/services,3000.0,GBP,90,Yes,Procurement,contracts/RUT-013.txt

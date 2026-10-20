@@ -1,0 +1,11 @@
+DEMONSTRATION CONTRACT ABSTRACT — FICTIONAL — NOT AN ACTUAL NHS AGREEMENT
+Agreement reference: RUT-001
+Customer: Riverton University NHS Trust
+Supplier as recorded: Medi Flow Ltd
+Service definition: Patient communications (PAS-SMS)
+Term: 2026-02-23 to 2027-01-14
+Pricing: 1357197 annual units at GBP 0.055 per unit (nominal). Volume may change.
+Renewal/notice: Agreement does not automatically renew.
+Break terms: Termination outside the stated period is subject to contract review. No unilateral penalty-free break is guaranteed.
+Savings caveat: Pricing is not proof of service equivalence. Any consolidation requires clinical, operational, legal and information-governance approval.
+Synthetic source provenance: generated for a technical exercise on 20 October 2026.

@@ -1,0 +1,11 @@
+DEMONSTRATION CONTRACT ABSTRACT — FICTIONAL — NOT AN ACTUAL NHS AGREEMENT
+Agreement reference: RUT-003
+Customer: Riverton University NHS Trust
+Supplier as recorded: PulseBridge Health
+Service definition: Remote monitoring (RPM-01)
+Term: 2025-12-10 to 2027-12-10
+Pricing: 8155 annual units at GBP 12.0152 per unit (nominal). Volume may change.
+Renewal/notice: The customer must give 30 days' notice before expiration to avoid renewal.
+Break terms: Termination outside the stated period is subject to contract review. No unilateral penalty-free break is guaranteed.
+Savings caveat: Pricing is not proof of service equivalence. Any consolidation requires clinical, operational, legal and information-governance approval.
+Synthetic source provenance: generated for a technical exercise on 20 October 2026.
